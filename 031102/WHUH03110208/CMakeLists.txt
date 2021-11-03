@@ -3,4 +3,4 @@ project(WHUH03110208 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(WHUH03110208 main.c)
+add_executable(WHUH03110208 08_Mathematical_Blackhole.c)
